@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Exam Center Ai",
+    "slug": "exam-center-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.example.examcenterai",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-5144026844331420~9869387552"
+      }
+    },
+    "entryPoint": "./App.tsx"
+  }
+}
