@@ -1,15 +1,25 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "Exam Center Ai",
     "slug": "exam-center-ai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+=======
+    "name": "ExamCenterAi",
+    "slug": "examcenterai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+>>>>>>> a12910a1236334c3c34a9b5f83fc4eb0d68cf0c7
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+<<<<<<< HEAD
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -21,5 +31,24 @@
       }
     },
     "entryPoint": "./App.tsx"
+=======
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.examcenter.ai"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    }
+>>>>>>> a12910a1236334c3c34a9b5f83fc4eb0d68cf0c7
   }
 }

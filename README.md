@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ExamCenterAi
 
 This is the **ExamCenterAi** mobile app built with **React Native (Expo)**.
@@ -26,3 +27,26 @@ This is the **ExamCenterAi** mobile app built with **React Native (Expo)**.
 ✅ If you see errors about dependencies, run:
 ```bash
 npm install
+=======
+# 📘 ExamCenterAi
+
+An AI-powered mobile app to help students prepare for all competitive exams in India.  
+Built with **React Native (Expo)** and integrated with **Google AdMob Ads**.
+
+---
+
+## 🚀 Features
+- AI-based exam preparation tools  
+- User-friendly mobile interface  
+- Supports both Android & iOS  
+- AdMob integration for monetization  
+
+---
+
+## 📦 Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/umathetech/ExamCenterAi.git
+cd ExamCenterAi
+>>>>>>> a12910a1236334c3c34a9b5f83fc4eb0d68cf0c7

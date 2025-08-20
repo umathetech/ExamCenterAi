@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "exam-center-ai",
+=======
+  "name": "examcenterai",
+>>>>>>> a12910a1236334c3c34a9b5f83fc4eb0d68cf0c7
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -9,6 +13,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@react-navigation/native": "6.1.6",
     "@react-navigation/bottom-tabs": "6.5.7",
     "@react-navigation/stack": "6.3.16",
@@ -23,9 +28,24 @@
     "react-native-safe-area-context": "4.8.2",
     "react-native-screens": "3.29.0",
     "react-native-web": "~0.19.6"
+=======
+    "expo": "~51.0.0",
+    "expo-ads-admob": "~14.0.1",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-web": "~0.19.10",
+    "react-navigation": "^4.4.4",
+    "react-navigation-stack": "^2.10.4"
+>>>>>>> a12910a1236334c3c34a9b5f83fc4eb0d68cf0c7
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
   "private": true
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a12910a1236334c3c34a9b5f83fc4eb0d68cf0c7
